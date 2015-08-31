@@ -1,0 +1,14 @@
+c:\users\srithar\documents\visual studio 2012\Projects\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe.config
+C:\Projects\GitHub\mlidynamics.iot.speechrecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe.config
+C:\Projects\GitHub\mlidynamics.iot.speechrecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe
+C:\Projects\GitHub\mlidynamics.iot.speechrecognition\SpeechRecognition\bin\Debug\SpeechRecognition.pdb
+C:\Projects\GitHub\mlidynamics.iot.speechrecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csprojResolveAssemblyReference.cache
+C:\Projects\GitHub\mlidynamics.iot.speechrecognition\SpeechRecognition\obj\Debug\MainWindow.baml
+C:\Projects\GitHub\mlidynamics.iot.speechrecognition\SpeechRecognition\obj\Debug\MainWindow.g.cs
+C:\Projects\GitHub\mlidynamics.iot.speechrecognition\SpeechRecognition\obj\Debug\App.g.cs
+C:\Projects\GitHub\mlidynamics.iot.speechrecognition\SpeechRecognition\obj\Debug\SpeechRecognition_MarkupCompile.cache
+C:\Projects\GitHub\mlidynamics.iot.speechrecognition\SpeechRecognition\obj\Debug\SpeechRecognition.g.resources
+C:\Projects\GitHub\mlidynamics.iot.speechrecognition\SpeechRecognition\obj\Debug\SpeechRecognition.Properties.Resources.resources
+C:\Projects\GitHub\mlidynamics.iot.speechrecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.GenerateResource.Cache
+C:\Projects\GitHub\mlidynamics.iot.speechrecognition\SpeechRecognition\obj\Debug\SpeechRecognition.exe
+C:\Projects\GitHub\mlidynamics.iot.speechrecognition\SpeechRecognition\obj\Debug\SpeechRecognition.pdb
